@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\WinApp\WinApp\bin\Debug\net8.0-windows\WinApp.exe
+C:\Users\DELL\source\repos\WinApp\WinApp\bin\Debug\net8.0-windows\WinApp.dll
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\WinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\WinApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\WinApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\WinApp.dll
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\refint\WinApp.dll
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\WinApp.pdb
+C:\Users\DELL\source\repos\WinApp\WinApp\bin\Debug\net8.0-windows\WinApp.deps.json
+C:\Users\DELL\source\repos\WinApp\WinApp\bin\Debug\net8.0-windows\WinApp.runtimeconfig.json
+C:\Users\DELL\source\repos\WinApp\WinApp\bin\Debug\net8.0-windows\WinApp.pdb
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\WinApp.genruntimeconfig.cache
+C:\Users\DELL\source\repos\WinApp\WinApp\obj\Debug\net8.0-windows\ref\WinApp.dll
